@@ -1,0 +1,19 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+#brand{
+    font-family: 'Major Mono Display', monospace; 
+}
+
+#customerpane{
+    float:right;
+}
+
+.mycards {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+div.container6 p {
+  margin: 0 }
